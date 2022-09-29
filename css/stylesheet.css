@@ -1,0 +1,92 @@
+* {
+  color: white;
+  margin: 0%;
+  padding: 0%;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+  background: black;
+}
+
+.navbar-light .navbar-toggler {
+  color: rgba(255, 4, 4, 0.55);
+  border-color: rgba(247, 245, 245, 0.1);
+}
+
+.logo {
+  display: flex;
+}
+
+.logo h4 {
+  height: 7vh;
+  display: flex;
+  align-items: center;
+}
+
+nav img {
+  width: auto;
+  height: 10vh;
+  border-radius: 100%;
+}
+.navbar-light .navbar-toggler {
+  color: rgba(255, 4, 4, 0.55);
+  border-color: rgba(255, 255, 255, 0.904);
+}
+
+.navbar-toggler-icon {
+  background: red;
+}
+
+.text1 h1 {
+  font-size: 30px;
+  font-weight: 300;
+}
+
+.text1 h2 {
+  font-size: 50px;
+}
+
+.text1 .button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+}
+
+.line {
+  background-color: red;
+  width: 10vh;
+  height: 1vh;
+  border-radius: 5px;
+  margin: auto;
+  margin-bottom: 5vh;
+}
+
+.text2 {
+  height: auto;
+  padding: 10px;
+  border: 1px solid red;
+}
+
+.text2 h1 {
+  font-size: 30px;
+}
+
+.button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+}
+
+i {
+  margin: 80px 0px 10px 0px;
+  color: red;
+}
+
+.resume h3 ,h4 {
+  color: red;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 35px;
+}
